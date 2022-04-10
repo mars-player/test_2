@@ -1,0 +1,7 @@
+﻿  源.cpp
+G:\c code\practice_20\practice_20\源.cpp(7,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+G:\c code\practice_20\practice_20\源.cpp(7,10): message : 此参数用作缓冲区大小
+G:\c code\practice_20\practice_20\源.cpp(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+G:\c code\practice_20\practice_20\源.cpp(10,9): message : 请考虑在格式字符串中使用“%zd”
+G:\c code\practice_20\practice_20\源.cpp(11,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  practice_20.vcxproj -> G:\c code\practice_20\x64\Debug\practice_20.exe
